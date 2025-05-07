@@ -1,6 +1,7 @@
 a=12
 b=34
 c=a+b
-d=c+a   
+d=c+a 
+e=d+c  
 
-print(d)
+print(e)
