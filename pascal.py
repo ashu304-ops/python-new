@@ -7,4 +7,4 @@ def  pascal(numrows):
         triangle.append(row)
     return  triangle
 
-print(pascal(5))
+print(pascal(4))
